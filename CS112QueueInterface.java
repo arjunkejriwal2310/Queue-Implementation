@@ -1,6 +1,5 @@
 public interface CS112QueueInterface
 {
-
 	void writeQueue();
 
 	void enqueue(int j);
@@ -10,5 +9,4 @@ public interface CS112QueueInterface
 	boolean isEmpty();
 	
 	int peek();
-
 }
